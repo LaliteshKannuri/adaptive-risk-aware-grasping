@@ -1,0 +1,7 @@
+venv/
+dataset/
+output/
+__pycache__/
+*.png
+ScreenCamera_*.json
+.qodo/
